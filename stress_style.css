@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #coloringCanvas {
+    border: 1px solid #000;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #colorPalette {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .color {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #000;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
