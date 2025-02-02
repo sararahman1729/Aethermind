@@ -1,0 +1,483 @@
+Age,Gender,previous mental record,mood swings,Are you sad right now,mental score,anxiety level,sleeping hours,social support,family support,relationship,BMI,salary,Occupation,weekly deppression,residing with family,personality type,location
+20,Male,No,No,Maybe,6,3,7,7,Maybe,Single,Normal Weight,0,student,Never ,Yes,Ambivert,Dhaka
+21,Female,No,Yes,Maybe,5,10,4,5,Yes,Single,Normal Weight,0,Student ,Daily,Yes,Extrovert,Dhaka
+23,Female,No,Yes,Maybe,5,8,8,2,No,Committed,Normal Weight,,Studen,thrice or quarce,Yes,Introvert,Dhaka
+25,Female,Yes,Yes,No,0,10,5,6,Yes,Married,Normal Weight,0,Student,Daily,No,Introvert,Dhaka
+24,Male,No,Maybe,Maybe,5,3,7,5,Yes,Single,Normal Weight,,Student,once or twice,Yes,Ambivert,Dhaka
+23,Male,Yes,No,Maybe,6,5,3,6,No,Single,Overweight,0,Student,thrice or quarce,No,Ambivert,Dhaka
+24,Male,No,No,Yes,5,1,5,3,No,Single,Normal Weight,40000,Student,once or twice,Yes,Extrovert,Dhaka
+22,Male,No,Maybe,No,8,4,6,8,Yes,Single,Normal Weight,,Student,thrice or quarce,Yes,Ambivert,Dhaka
+23,Female,Maybe,Yes,No,5,5,5,5,Yes,Single,Normal Weight,0,Student ,once or twice,No,Introvert,Dhaka
+20,Female,Yes,Yes,Maybe,3,10,8,2,No,Single,Overweight,0,Student,thrice or quarce,No,Ambivert,Dhaka
+22,Female,No,Yes,Yes,5,10,3,1,No,Single,Overweight,20000,Student,thrice or quarce,Yes,Extrovert,Dhaka
+24,Male,No,No,No,8,2,5,5,Yes,Committed,Normal Weight,60000,Freelance illustrator,once or twice,No,Introvert,Dhaka
+21,Female,No,Maybe,Maybe,7,9,4,3,No,Single,Under Weight,0,Student,thrice or quarce,No,Introvert,Dhaka
+24,Male,No,No,No,9,5,4,6,Yes,Single,Normal Weight,0,Student,Never ,No,Ambivert,Dhaka
+23,Female,Yes,Yes,No,8,6,5,7,Yes,Committed,Normal Weight,0,Student,thrice or quarce,Yes,Ambivert,Dhaka
+23,Male,Maybe,Yes,Maybe,7,8,5,3,No,Single,Normal Weight,0,Student,once or twice,Yes,Introvert,Dhaka
+24,Male,Maybe,No,No,5,7,3,7,Yes,Committed,Overweight,65000,Saas App developer,once or twice,Yes,Ambivert,Dhaka
+27,Male,Maybe,No,No,6,7,6,4,Yes,Single,Overweight,0,Phd Student,once or twice,No,Ambivert,USA
+23,Female,Yes,Yes,Maybe,1,10,6,1,No,Single,Normal Weight,0,student,once or twice,Yes,Introvert,Dhaka
+23,Female,No,No,No,7,4,7,8,Yes,Single,Normal Weight,0,Student ,once or twice,Yes,Ambivert,Dhaka
+25,Male,No,No,Maybe,6,4,8,4,No,Single,Normal Weight,60000,Software engineer ,once or twice,Yes,Introvert,Dhaka
+24,Male,No,Yes,No,5,3,8,5,Maybe,Single,Normal Weight,0,Student,once or twice,No,Ambivert,Dhaka
+23,Female,No,Yes,Yes,2,9,3,3,No,Committed,Normal Weight,24000,Student,thrice or quarce,Yes,Extrovert,Dhaka
+28,Male,Yes,No,No,9,5,7,8,Maybe,Single,Normal Weight,60000,Graduate Assistant ,once or twice,No,Ambivert,USA
+24,Female,Yes,Maybe,No,7,5,6,4,Yes,Committed,Normal Weight,0,Student,once or twice,No,Ambivert,Khulna
+23,Female,No,Yes,No,6,6,8,6,Yes,Single,Normal Weight,0,Student,thrice or quarce,No,Ambivert,Dhaka
+24,Male,No,No,No,7,3,6,7,Maybe,Single,Under Weight,0,Student,Daily,Yes,Introvert,Dhaka
+23,Male,No,Yes,No,8,7,6,3,Maybe,Single,Normal Weight,41000,Student,once or twice,Yes,Extrovert,Dhaka
+23,Male,No,No,No,8,3,3,7,Yes,Single,Normal Weight,10000,Student,once or twice,Yes,Ambivert,Dhaka
+30,Male,No,Maybe,No,7,5,8,6,Maybe,Married,Overweight,0,Graduate Research Assistant,once or twice,Yes,Introvert,USA
+23,Male,No,No,No,10,5,7,7,Yes,Single,Normal Weight,0,Student ,thrice or quarce,Yes,Extrovert,Dhaka
+24,Female,Yes,Yes,No,5,8,4,5,No,Single,Normal Weight,0,Student,once or twice,Yes,Ambivert,Dhaka
+28,Male,No,No,No,8,3,8,8,Yes,Married,Overweight,0,Private Job,once or twice,Yes,Ambivert,Dhaka
+21,Female,No,Yes,No,2,5,8,4,No,Single,Normal Weight,0,Student ,thrice or quarce,No,Introvert,Dhaka
+23,Female,No,Yes,Maybe,6,6,5,3,No,Committed,Normal Weight,0,Student,once or twice,Yes,Introvert,Dhaka
+22,Male,No,No,No,8,4,6,7,Maybe,Committed,Normal Weight,3000,Part time trader ,once or twice,Yes,Ambivert,Dhaka
+24,Female,No,No,No,6,7,5,8,Yes,Married,Overweight,0,Student ,once or twice,Yes,Extrovert,Dhaka
+28,Male,No,No,Yes,8,10,5,5,No,Committed,Normal Weight,50000,Private Service,Daily,Yes,Introvert,Dhaka
+22,Female,No,Yes,Yes,5,8,5,8,Yes,Single,Normal Weight,0,Student ,once or twice,Yes,Ambivert,Dhaka
+24,Male,No,No,Maybe,10,6,5,8,Yes,Single,Normal Weight,0,Student,once or twice,No,Introvert,Dhaka
+29,Male,No,No,Maybe,7,5,7,5,Yes,Married,Overweight,0,Phd Student,once or twice,No,Extrovert,Dhaka
+23,Female,No,Yes,No,8,9,3,5,Maybe,Single,Normal Weight,0,Student,thrice or quarce,Yes,Ambivert,Dhaka
+27,Male,No,No,No,8,1,8,7,Yes,Married,obesity,0,Civil Engineer ,Never ,Yes,Ambivert,Dhaka
+23,Female,No,Yes,Yes,5,9,6,2,No,Married,Normal Weight,0,Student ,Quince or sence,Yes,Introvert,Dhaka
+17,Female,Maybe,Yes,Yes,5,10,12,3,Yes,Single,Normal Weight,0,Student,Quince or sence,Yes,Extrovert,Dhaka
+25,Female,Yes,Yes,Yes,6,7,6,5,No,Single,normal Weight,0,Student,thrice or quarce,No,Introvert,Australia 
+24,Male,No,No,Yes,6,5,2,4,No,Single,obesite,15000,Student,Daily,Yes,Ambivert,Dhaka
+23,Female,No,Maybe,No,7,5,7,9,Yes,Committed,normal Weight,0,Student ,Never ,Yes,Ambivert,Dhaka
+23,Male,No,Yes,Yes,1,1,6,5,Yes,Single,Overweight,0,Student,Daily,Yes,Ambivert,Dhaka
+22,Male,Yes,Yes,No,7,6,5,5,Yes,Single,Overweight,0,Student ,once or twice,Yes,Ambivert,Dhaka
+24,Female,No,Yes,No,7,7,5,6,Yes,Married,normal Weight,0,Student ,once or twice,No,Introvert,Dhaka
+22,Female,No,Yes,Yes,4,6,6,6,Maybe,Single,normal Weight,0,Student,Quince or sence,Yes,Ambivert,Dhaka
+21,Male,No,No,Maybe,6,1,8,2,No,Single,normal Weight,0,Student ,Quite less,Yes,Introvert,Dhaka
+23,Female,No,Yes,Maybe,6,7,4,9,Yes,Single,Overweight,0,Student,Once or twice,No,Introvert,Dhaka
+23,Female,No,Yes,Yes,2,8,4,7,Yes,Single,Overweight,0,Intern,Daily,Yes,Ambivert,Dhaka
+23,Female,No,Yes,No,7,3,7,3,No,Single,normal Weight,0,Student,once or twice,Yes,Ambivert,Dhaka
+27,Female,Yes,Yes,Maybe,4,8,7,4,No,Single,Under Weight,17000,Teacher ,Daily,Yes,Introvert,Dhaka
+23,Male,Yes,Yes,Yes,1,10,6,7,Maybe,Single,normal Weight,18000,Content Writer,Quince or sence,No,Ambivert,Dhaka
+26,Male,No,Maybe,No,6,9,7,7,Maybe,Single,normal Weight,0,Engineer,Daily,Yes,Ambivert,Dhaka
+22,Male,No,No,No,7,7,5,8,Maybe,Single,Overweight,0,Student,Once or twice,Yes,Ambivert,Dhaka
+24,Male,No,Maybe,I don't know,6,9,6,4,No,Committed,Overweight,10000,Student,Daily,No,Ambivert,Dhaka
+22,Male,No,No,No,8,2,7,8,Yes,Married,normal Weight,0,Student ,once or twice,Yes,Ambivert,Dhaka
+21,Male,No,No,No,10,8,7,7,Yes,Single,normal Weight,0,Student,Never ,Yes,Introvert,Dhaka
+21,Male,No,Yes,Yes,1,2,5,3,Maybe,Single,normal Weight,0,Student,thrice or quarce,No,Introvert,Dhaka
+23,Female,No,Maybe,No,7,8,4,5,No,Single,normal Weight,0,Student ,Quince or sence,Yes,Ambivert,Dhaka
+23,Female,No,Yes,I don't know,6,8,5,4,No,Committed,normal Weight,9000,student,once or twice,Yes,Introvert,Dhaka
+22,Female,Maybe,Yes,Yes,1,10,8,4,No,Single,normal Weight,0,Student ,Quince or sence,Yes,Introvert,Dhaka
+23,Female,Maybe,Yes,No,3,5,7,10,Maybe,Committed,normal Weight,0,Student ,Quince or sence,Yes,Ambivert,Dhaka
+23,Male,No,No,I don't know,7,4,5,7,Yes,Single,normal Weight,0,Student ,once or twice,Yes,Ambivert,Dhaka
+22,Female,No,Yes,No,9,5,5,7,Yes,Engaged,normal Weight,0,Student ,once or twice,Yes,Ambivert,Dhaka
+24,Female,No,Yes,No,7,6,5,9,Yes,Single,Overweight,28000,Student ,thrice or quarce,Yes,Ambivert,Dhaka
+23,Male,No,Yes,No,7,9,6,2,Yes,Single,normal Weight,0,Student ,once or twice,No,Ambivert,Dhaka
+21,Female,Yes,Yes,Yes,4,6,7,2,No,Single,obesity,0,Student ,Daily,Yes,Introvert,Dhaka
+15,Female,Maybe,Yes,No,6,6,10,5,Maybe,Single,Overweight,0,Student ,once or twice,Yes,Extrovert,Dhaka 
+18,Female,No,Yes,Maybe,5,5,5,4,No,Committed,normal Weight,1000,Student ,Daily,Yes,Extrovert,Dhaka 
+18,Female,No,Yes,Maybe,5,9,12,3,Maybe,Single,normal Weight,0,Student ,Daily,Yes,Extrovert,Dhaka 
+20,Female,Maybe,Yes,Yes,3,9,8,2,No,Single,obesity,0,Student ,thrice or quarce,Yes,Introvert,Dhaka 
+23,Female,Yes,Yes,Maybe,5,5,4,4,Maybe,Single,normal Weight,0,Student ,thrice or quarce,Yes,Introvert,Dhaka 
+16,Female,Yes,Maybe,Yes,8,10,8,1,No,Single,normal Weight,0,Student ,Daily,Yes,Extrovert,Dhaka 
+18,Female,Yes,Yes,Maybe,5,4,10,2,Yes,Single,normal Weight,0,Student ,once or twice,Yes,Introvert,Dhaka 
+17,Female,No,Maybe,No,2,3,8,3,Yes,Single,normal Weight,0,Student ,once or twice,Yes,Introvert,Dhaka 
+22,Male,No,No,Maybe,5,8,6,4,Maybe,Single,normal Weight,0,Student ,once or twice,Yes,Ambivert,Dhaka 
+62,Male,No,No,No,7,7,7,4,Maybe,Married,Underweight,68000,Engineer,Daily,No,Ambivert,Sylhet
+57,Female,No,No,No,5,6,9,4,Yes,Single,Overweight,0,Student,once or twice,No,Introvert,Chittagong
+19,Male,No,Yes,Maybe,3,0,5,0,Yes,Committed,Normal Weight,0,Engineer,Never,Yes,Extrovert,Dhaka
+61,Male,No,Maybe,No,2,1,8,1,No,Single,Underweight,8000,student,once or twice,No,Extrovert,Sylhet
+58,Female,Yes,Maybe,Maybe,10,4,6,3,Maybe,Committed,Underweight,9000,Student,Never,No,Extrovert,Sylhet
+50,Male,Yes,Maybe,Maybe,0,6,9,2,Yes,Single,Overweight,0,Engineer,thrice or quarce,Yes,Extrovert,Dhaka
+20,Male,No,Maybe,No,0,8,6,6,No,Single,Underweight,0,student,thrice or quarce,Yes,Ambivert,Chittagong
+35,Female,Yes,Maybe,Maybe,7,0,4,0,No,Married,Overweight,0,Student,thrice or quarce,No,Extrovert,Chittagong
+27,Male,No,No,No,2,5,5,8,Maybe,Single,Overweight,0,Student,Daily,No,Ambivert,Sylhet
+21,Female,Yes,No,No,8,6,8,4,No,Single,Normal Weight,0,Student,Never,Yes,Ambivert,Sylhet
+63,Female,No,No,No,0,3,4,3,No,Single,Overweight,0,Engineer,Daily,No,Introvert,Dhaka
+50,Male,No,Yes,Maybe,1,6,4,8,Maybe,Married,Underweight,0,Engineer,thrice or quarce,No,Extrovert,Dhaka
+25,Female,Yes,Maybe,Yes,5,1,5,1,Yes,Single,Underweight,0,Student,Daily,Yes,Ambivert,Sylhet
+43,Male,No,Maybe,No,3,9,6,7,Maybe,Committed,Normal Weight,16000,Student,once or twice,No,Extrovert,Dhaka
+58,Female,No,Yes,Maybe,1,2,5,8,No,Single,Normal Weight,23000,Student,Never,No,Extrovert,Chittagong
+22,Male,Yes,Yes,No,2,3,5,6,Maybe,Married,Overweight,0,Doctor,Daily,No,Introvert,Dhaka
+43,Female,Yes,No,No,9,4,8,5,No,Married,Normal Weight,0,Doctor,once or twice,Yes,Extrovert,Dhaka
+19,Female,No,Yes,Yes,4,7,5,9,Maybe,Married,Normal Weight,0,Student,Never,No,Extrovert,Chittagong
+59,Male,No,Maybe,No,10,10,5,4,Yes,Single,Overweight,0,Student,once or twice,No,Ambivert,Sylhet
+56,Female,No,Yes,Maybe,7,10,8,7,No,Single,Underweight,70000,Student,once or twice,Yes,Introvert,Chittagong
+59,Male,No,Yes,No,2,1,5,5,Yes,Committed,Normal Weight,45000,Student,Never,No,Introvert,Chittagong
+61,Male,Yes,Maybe,Yes,6,3,5,0,No,Married,Overweight,0,Doctor,thrice or quarce,No,Introvert,Chittagong
+59,Male,No,Maybe,Yes,10,0,6,9,No,Single,Underweight,0,Engineer,Daily,Yes,Introvert,Sylhet
+31,Female,No,Yes,Yes,6,9,6,7,No,Single,Normal Weight,8000,Doctor,thrice or quarce,No,Introvert,Chittagong
+24,Female,No,Yes,No,8,10,5,2,Maybe,Committed,Normal Weight,67000,Student,once or twice,Yes,Introvert,Dhaka
+60,Female,No,Maybe,Maybe,4,3,5,2,Maybe,Committed,Normal Weight,0,Student,Never,Yes,Ambivert,Dhaka
+47,Male,No,Yes,No,3,6,4,7,No,Married,Overweight,0,Doctor,Daily,Yes,Extrovert,Sylhet
+18,Male,No,Yes,No,7,3,6,8,Yes,Committed,Underweight,0,Student,Never,Yes,Ambivert,Chittagong
+27,Male,No,Yes,Yes,0,7,5,7,Yes,Single,Normal Weight,0,Student,Never,No,Extrovert,Chittagong
+31,Female,No,Yes,Yes,1,3,4,6,No,Married,Overweight,0,Student,thrice or quarce,Yes,Extrovert,Sylhet
+56,Male,No,No,No,0,0,9,2,Yes,Married,Normal Weight,0,Engineer,Never,No,Ambivert,Dhaka
+34,Female,No,Maybe,No,0,6,6,9,Maybe,Committed,Underweight,0,student,Never,Yes,Ambivert,Chittagong
+35,Male,No,Maybe,Yes,4,3,8,2,No,Single,Underweight,0,Student,once or twice,Yes,Extrovert,Chittagong
+50,Male,Yes,No,Maybe,3,6,5,3,Maybe,Married,Overweight,0,Student,Daily,No,Introvert,Chittagong
+22,Female,Yes,No,Maybe,1,0,7,0,Maybe,Committed,Underweight,0,Engineer,Never,Yes,Ambivert,Sylhet
+37,Female,Yes,Yes,No,7,0,9,1,No,Single,Underweight,0,Doctor,Daily,Yes,Introvert,Chittagong
+50,Male,Yes,Maybe,Maybe,2,3,4,4,No,Committed,Normal Weight,0,Student,Never,No,Ambivert,Chittagong
+58,Male,No,No,Maybe,1,7,4,3,No,Single,Overweight,0,Student,Daily,No,Extrovert,Chittagong
+64,Male,Yes,Maybe,Maybe,0,5,8,1,Maybe,Committed,Normal Weight,79000,student,Daily,No,Ambivert,Chittagong
+22,Male,No,Maybe,Yes,0,4,5,6,Yes,Married,Underweight,0,Doctor,Daily,Yes,Ambivert,Chittagong
+34,Male,No,Yes,Yes,10,3,6,0,No,Single,Overweight,34000,Doctor,Daily,Yes,Introvert,Chittagong
+31,Male,No,Maybe,No,5,2,5,3,Maybe,Committed,Overweight,0,Doctor,Never,No,Ambivert,Sylhet
+44,Male,No,Maybe,Maybe,2,0,4,6,No,Married,Overweight,0,Engineer,Daily,Yes,Ambivert,Dhaka
+56,Male,No,Yes,Yes,9,6,6,6,Yes,Married,Normal Weight,0,Student,Never,No,Ambivert,Sylhet
+64,Male,Yes,Maybe,No,8,9,6,3,No,Married,Overweight,0,Student,once or twice,Yes,Ambivert,Sylhet
+22,Female,Yes,Maybe,Yes,0,2,6,5,Yes,Committed,Overweight,0,Student,Never,Yes,Ambivert,Chittagong
+51,Male,Yes,Maybe,Maybe,5,4,5,6,Yes,Married,Normal Weight,0,Doctor,Daily,No,Introvert,Dhaka
+58,Male,No,No,No,1,0,7,3,Yes,Married,Underweight,5000,Student,Daily,No,Introvert,Chittagong
+42,Male,Yes,Yes,Maybe,7,5,5,7,No,Single,Normal Weight,0,Student,once or twice,Yes,Extrovert,Sylhet
+44,Male,No,Yes,Yes,8,10,9,2,Yes,Married,Normal Weight,0,Doctor,Never,Yes,Extrovert,Sylhet
+49,Female,Yes,Yes,Yes,2,0,8,7,Maybe,Single,Underweight,23000,Engineer,Daily,No,Extrovert,Sylhet
+42,Male,Yes,No,No,7,7,5,9,Yes,Married,Underweight,0,Doctor,Never,No,Extrovert,Sylhet
+57,Female,No,Yes,No,2,6,4,1,No,Single,Overweight,0,student,once or twice,Yes,Introvert,Sylhet
+46,Male,No,No,Maybe,8,5,4,8,Maybe,Single,Overweight,31000,Engineer,Daily,No,Introvert,Dhaka
+55,Male,No,Yes,Yes,5,0,5,5,Maybe,Committed,Underweight,0,Student,Daily,No,Ambivert,Chittagong
+52,Female,Yes,Yes,Yes,8,10,7,3,Yes,Married,Overweight,0,Doctor,Never,No,Extrovert,Sylhet
+58,Female,Yes,Yes,No,8,10,6,1,Yes,Married,Overweight,0,Student,Daily,Yes,Introvert,Sylhet
+34,Female,No,No,Maybe,9,4,8,4,Maybe,Single,Overweight,3000,student,Daily,No,Introvert,Dhaka
+62,Female,No,Maybe,Yes,6,7,9,1,No,Committed,Underweight,45000,Engineer,Never,Yes,Introvert,Sylhet
+19,Female,No,Yes,Yes,9,4,7,0,No,Single,Underweight,0,Student,once or twice,Yes,Extrovert,Sylhet
+53,Female,Yes,Maybe,No,7,2,9,1,No,Committed,Underweight,0,Doctor,Daily,No,Introvert,Dhaka
+39,Male,Yes,Yes,Maybe,10,7,7,1,Maybe,Single,Overweight,0,student,Never,No,Extrovert,Sylhet
+31,Male,Yes,No,Maybe,3,3,4,6,Yes,Married,Overweight,0,Student,thrice or quarce,No,Extrovert,Sylhet
+48,Male,No,Maybe,Maybe,2,2,9,6,Yes,Committed,Normal Weight,0,student,once or twice,Yes,Extrovert,Sylhet
+59,Female,No,Yes,No,5,8,7,8,Maybe,Committed,Overweight,4000,student,once or twice,No,Extrovert,Chittagong
+23,Female,Yes,No,Maybe,2,7,5,1,Yes,Married,Overweight,0,Doctor,Daily,Yes,Introvert,Sylhet
+27,Male,No,Maybe,Yes,0,4,5,7,Yes,Married,Overweight,3000,Engineer,Daily,No,Ambivert,Sylhet
+61,Male,Yes,Yes,Yes,5,8,4,0,Maybe,Committed,Normal Weight,0,Student,Daily,Yes,Introvert,Dhaka
+36,Male,No,Maybe,Maybe,7,6,4,9,No,Committed,Normal Weight,0,Engineer,Daily,No,Ambivert,Chittagong
+61,Male,Yes,Maybe,Yes,1,8,9,1,No,Married,Underweight,0,student,Daily,No,Ambivert,Chittagong
+18,Male,No,Yes,No,3,10,9,6,No,Single,Overweight,0,Student,once or twice,Yes,Extrovert,Chittagong
+50,Male,Yes,Maybe,No,4,4,8,7,No,Single,Normal Weight,0,Studen,once or twice,Yes,Ambivert,Chittagong
+21,Female,No,No,No,1,5,8,5,No,Married,Overweight,0,student,Never,Yes,Ambivert,Dhaka
+21,Female,Yes,Yes,Yes,1,6,6,7,No,Single,Underweight,0,Doctor,Never,No,Introvert,Dhaka
+41,Male,No,Yes,Maybe,4,9,6,9,No,Committed,Overweight,0,Student,once or twice,No,Introvert,Sylhet
+57,Male,Yes,Yes,Yes,3,10,4,6,No,Committed,Overweight,0,student,once or twice,Yes,Introvert,Sylhet
+23,Female,No,Maybe,Maybe,4,7,8,5,No,Married,Overweight,23000,Student,Daily,Yes,Introvert,Dhaka
+32,Male,Yes,No,No,7,4,7,8,No,Married,Normal Weight,0,Doctor,thrice or quarce,Yes,Ambivert,Sylhet
+53,Male,No,Maybe,No,1,10,6,0,No,Single,Overweight,2700,student,once or twice,No,Ambivert,Chittagong
+26,Male,No,Yes,Maybe,0,8,9,1,No,Single,Underweight,0,Engineer,once or twice,No,Ambivert,Sylhet
+50,Male,No,Maybe,Yes,6,8,4,8,Maybe,Committed,Underweight,29000,Doctor,thrice or quarce,Yes,Extrovert,Dhaka
+32,Female,Yes,Maybe,No,8,0,9,4,Yes,Committed,Underweight,0,student,once or twice,Yes,Extrovert,Chittagong
+47,Male,Yes,Yes,Maybe,2,10,8,6,No,Committed,Underweight,0,Doctor,thrice or quarce,No,Ambivert,Chittagong
+22,Female,No,Maybe,Yes,2,8,5,8,No,Single,Underweight,0,Engineer,Never,No,Extrovert,Sylhet
+64,Female,Yes,Maybe,Yes,2,8,4,0,Maybe,Committed,Overweight,37000,Student,thrice or quarce,Yes,Extrovert,Sylhet
+36,Female,Yes,Maybe,No,10,6,4,0,Yes,Committed,Overweight,0,Student,Daily,No,Ambivert,Dhaka
+57,Male,Yes,Maybe,No,3,5,9,8,No,Single,Overweight,0,Doctor,once or twice,Yes,Ambivert,Sylhet
+64,Female,No,No,Maybe,10,9,8,5,Maybe,Committed,Underweight,0,Student,once or twice,Yes,Extrovert,Sylhet
+45,Male,No,Maybe,No,10,5,6,1,Yes,Single,Normal Weight,0,Student,once or twice,Yes,Introvert,Sylhet
+56,Female,No,Yes,Yes,1,0,5,9,No,Single,Normal Weight,0,Engineer,once or twice,No,Introvert,Dhaka
+32,Female,Yes,No,Yes,3,1,8,9,Maybe,Single,Normal Weight,0,student,Never,No,Extrovert,Dhaka
+51,Female,No,No,No,8,10,5,8,Maybe,Committed,Underweight,0,Doctor,thrice or quarce,Yes,Introvert,Dhaka
+50,Female,Yes,Yes,No,10,10,8,6,Maybe,Committed,Overweight,22000,student,Never,No,Extrovert,Sylhet
+55,Male,Yes,Maybe,Maybe,0,4,6,2,No,Married,Normal Weight,0,student,once or twice,No,Ambivert,Dhaka
+31,Male,No,Maybe,Yes,9,0,5,0,No,Single,Underweight,0,Engineer,thrice or quarce,Yes,Extrovert,Chittagong
+51,Female,Yes,Maybe,No,8,1,8,1,Maybe,Committed,Overweight,0,Engineer,once or twice,Yes,Introvert,Chittagong
+37,Male,Yes,No,Yes,6,2,9,6,No,Married,Normal Weight,0,Engineer,Daily,Yes,Introvert,Dhaka
+64,Female,Yes,Yes,No,0,2,4,1,No,Committed,Underweight,0,Student,Never,No,Ambivert,Sylhet
+44,Male,No,Yes,No,10,3,6,7,No,Single,Overweight,0,Student,Never,Yes,Introvert,Chittagong
+43,Female,Yes,Yes,Yes,4,7,4,1,Maybe,Committed,Normal Weight,0,student,thrice or quarce,No,Ambivert,Chittagong
+33,Female,Yes,Maybe,Yes,8,9,7,6,No,Single,Underweight,0,Student,Daily,Yes,Ambivert,Sylhet
+40,Female,Yes,Yes,No,7,10,6,1,No,Married,Overweight,0,Engineer,thrice or quarce,No,Extrovert,Sylhet
+27,Male,No,Maybe,Yes,7,1,9,8,No,Committed,Underweight,0,Doctor,once or twice,No,Ambivert,Dhaka
+64,Female,Yes,Maybe,Maybe,10,8,7,6,Yes,Committed,Normal Weight,0,Student,Never,Yes,Ambivert,Chittagong
+18,Male,Yes,Maybe,Maybe,6,9,7,5,No,Married,Normal Weight,0,student,Never,No,Ambivert,Chittagong
+23,Female,Yes,Yes,No,0,0,7,4,No,Single,Normal Weight,0,Doctor,Daily,Yes,Introvert,Sylhet
+61,Female,No,No,No,4,1,9,7,Yes,Committed,Normal Weight,0,Doctor,Daily,Yes,Extrovert,Sylhet
+43,Male,Yes,Maybe,Maybe,0,6,8,9,Yes,Committed,Underweight,0,Student,once or twice,No,Extrovert,Sylhet
+63,Male,Yes,Yes,Yes,7,4,7,6,No,Committed,Underweight,0,student,Daily,No,Introvert,Dhaka
+56,Female,Yes,Yes,No,6,0,8,4,Yes,Committed,Underweight,0,Engineer,thrice or quarce,No,Introvert,Chittagong
+61,Male,No,No,Yes,1,8,9,7,No,Committed,Overweight,0,Student,Never,Yes,Ambivert,Sylhet
+62,Female,No,Maybe,Yes,9,7,6,7,No,Married,Overweight,0,Doctor,Daily,Yes,Ambivert,Chittagong
+45,Female,Yes,No,No,4,9,6,9,Yes,Committed,Overweight,0,Doctor,thrice or quarce,No,Ambivert,Dhaka
+41,Male,No,No,No,1,8,6,3,Yes,Committed,Normal Weight,0,Studen,Never,No,Extrovert,Sylhet
+53,Male,No,Maybe,Yes,2,3,4,9,Maybe,Married,Overweight,0,Student,thrice or quarce,No,Extrovert,Chittagong
+35,Male,Yes,Maybe,No,0,5,4,8,Yes,Committed,Overweight,0,student,once or twice,Yes,Extrovert,Dhaka
+23,Female,Yes,No,Maybe,9,10,9,6,Maybe,Single,Normal Weight,0,student,thrice or quarce,Yes,Ambivert,Sylhet
+22,Female,Yes,No,Yes,4,5,8,0,No,Single,Overweight,0,Studen,thrice or quarce,No,Introvert,Sylhet
+20,Female,Yes,No,Maybe,9,4,8,2,Yes,Married,Normal Weight,0,Student,thrice or quarce,No,Extrovert,Sylhet
+28,Female,Yes,No,No,10,2,8,3,Maybe,Single,Underweight,0,Doctor,Never,No,Introvert,Sylhet
+26,Female,No,No,Yes,3,3,7,1,Maybe,Committed,Normal Weight,0,Student,Never,No,Introvert,Dhaka
+52,Female,Yes,Yes,Yes,10,3,6,7,No,Single,Underweight,0,Student,once or twice,Yes,Introvert,Chittagong
+23,Female,No,No,Maybe,7,9,4,9,Maybe,Married,Normal Weight,0,Student,Never,Yes,Introvert,Chittagong
+39,Female,Yes,Yes,Yes,1,1,8,7,No,Committed,Overweight,0,Doctor,thrice or quarce,Yes,Ambivert,Sylhet
+20,Male,No,Yes,No,2,6,8,3,No,Single,Underweight,0,Engineer,thrice or quarce,No,Introvert,Chittagong
+28,Male,Yes,Yes,No,9,9,8,1,Yes,Committed,Overweight,0,Student,Never,Yes,Extrovert,Chittagong
+34,Female,Yes,Yes,Maybe,10,4,8,6,Maybe,Single,Overweight,0,Engineer,Never,Yes,Ambivert,Dhaka
+63,Female,No,No,Maybe,3,1,8,9,Yes,Married,Overweight,0,Doctor,Daily,Yes,Ambivert,Chittagong
+54,Female,No,Yes,Maybe,1,6,9,4,Maybe,Married,Overweight,0,Engineer,Daily,Yes,Extrovert,Chittagong
+24,Male,No,No,No,0,9,8,5,Yes,Single,Overweight,0,Doctor,thrice or quarce,Yes,Extrovert,Dhaka
+38,Male,Yes,Maybe,No,1,9,6,7,Yes,Single,Normal Weight,0,student,Never,Yes,Ambivert,Chittagong
+53,Male,No,No,Maybe,2,8,8,7,No,Single,Overweight,0,Engineer,Daily,Yes,Introvert,Chittagong
+31,Male,Yes,Yes,No,2,4,7,8,Yes,Married,Overweight,0,Engineer,Never,No,Ambivert,Chittagong
+39,Female,Yes,Maybe,Yes,3,8,5,1,No,Married,Underweight,0,Doctor,once or twice,No,Ambivert,Sylhet
+48,Female,No,No,Maybe,5,7,7,1,Yes,Single,Normal Weight,0,student,Daily,Yes,Introvert,Chittagong
+23,Female,Yes,No,Maybe,6,6,5,0,No,Committed,Overweight,0,Student,Never,No,Ambivert,Chittagong
+52,Female,No,Yes,Yes,0,2,5,0,Maybe,Married,Underweight,0,student,Never,Yes,Ambivert,Chittagong
+55,Female,No,Maybe,Yes,2,5,7,4,Maybe,Committed,Overweight,0,Engineer,Daily,Yes,Ambivert,Dhaka
+63,Male,Yes,Yes,No,2,8,9,9,No,Committed,Overweight,0,Student,Never,Yes,Introvert,Dhaka
+27,Female,No,Yes,Yes,5,5,9,1,Yes,Married,Underweight,0,Engineer,Never,Yes,Introvert,Dhaka
+51,Male,No,Maybe,Yes,2,1,8,8,Maybe,Single,Overweight,0,student,once or twice,No,Introvert,Chittagong
+37,Male,No,Yes,No,1,7,6,6,Maybe,Married,Underweight,0,Student,once or twice,Yes,Introvert,Sylhet
+23,Male,No,Yes,Maybe,10,8,6,1,Maybe,Single,Normal Weight,0,Student,thrice or quarce,Yes,Ambivert,Chittagong
+59,Male,No,Maybe,Maybe,0,5,8,6,Maybe,Married,Underweight,0,Doctor,Daily,Yes,Extrovert,Sylhet
+60,Female,Yes,No,Yes,5,2,7,8,Maybe,Married,Overweight,0,Engineer,Never,Yes,Extrovert,Sylhet
+63,Male,No,Yes,Maybe,1,2,7,0,No,Single,Underweight,0,Student,Daily,No,Ambivert,Sylhet
+21,Female,No,Maybe,Maybe,4,7,5,6,Yes,Single,Overweight,0,Student,Never,No,Ambivert,Chittagong
+47,Male,Yes,No,Yes,5,5,6,9,Maybe,Married,Underweight,0,Student,thrice or quarce,No,Ambivert,Dhaka
+19,Female,No,No,No,10,4,7,2,Maybe,Married,Underweight,0,Doctor,thrice or quarce,No,Extrovert,Sylhet
+22,Female,No,No,Maybe,8,0,4,1,Yes,Single,Underweight,0,Engineer,once or twice,Yes,Ambivert,Chittagong
+27,Female,Yes,No,No,9,10,7,6,Maybe,Single,Overweight,0,student,once or twice,Yes,Introvert,Dhaka
+50,Female,No,No,No,10,10,5,6,No,Committed,Overweight,0,student,Daily,No,Extrovert,Dhaka
+42,Male,No,Yes,Yes,10,3,6,8,Maybe,Committed,Underweight,0,Student,Daily,No,Ambivert,Chittagong
+48,Female,Yes,No,Yes,10,7,5,7,No,Married,Overweight,0,Student,thrice or quarce,Yes,Ambivert,Dhaka
+45,Female,No,Yes,Maybe,2,9,4,9,No,Single,Normal Weight,0,Doctor,Never,No,Introvert,Dhaka
+27,Female,Yes,Maybe,No,4,2,9,6,Yes,Married,Normal Weight,0,Doctor,Never,No,Ambivert,Sylhet
+30,Male,Yes,Maybe,Maybe,2,9,8,1,No,Committed,Underweight,0,Studen,Daily,No,Ambivert,Sylhet
+49,Female,No,No,Maybe,7,8,4,6,Maybe,Married,Normal Weight,0,Engineer,thrice or quarce,Yes,Introvert,Dhaka
+34,Female,Yes,Yes,No,6,1,7,9,No,Married,Underweight,0,Studen,Never,Yes,Introvert,Chittagong
+26,Female,Yes,No,Maybe,6,6,8,5,No,Committed,Overweight,0,student,Never,No,Extrovert,Chittagong
+58,Male,No,No,No,3,2,6,7,No,Married,Normal Weight,0,Doctor,thrice or quarce,No,Extrovert,Chittagong
+55,Female,Yes,No,Maybe,9,0,7,4,No,Married,Normal Weight,0,student,thrice or quarce,Yes,Extrovert,Dhaka
+41,Female,No,Yes,No,10,6,5,2,No,Committed,Overweight,0,Engineer,Daily,No,Introvert,Sylhet
+55,Male,No,Yes,Maybe,2,6,8,9,Maybe,Single,Underweight,0,student,once or twice,No,Ambivert,Dhaka
+58,Female,No,Maybe,Yes,5,5,9,7,Maybe,Married,Normal Weight,0,student,Never,No,Introvert,Chittagong
+51,Female,Yes,Yes,Yes,1,0,7,1,Yes,Committed,Overweight,0,Studen,Daily,Yes,Extrovert,Sylhet
+29,Female,No,No,Yes,10,4,4,9,No,Committed,Overweight,0,Student,thrice or quarce,Yes,Ambivert,Dhaka
+26,Female,Yes,Maybe,Maybe,5,0,4,6,Yes,Single,Normal Weight,0,student,Daily,Yes,Introvert,Sylhet
+24,Male,Yes,Maybe,Yes,5,10,7,7,Maybe,Single,Normal Weight,0,Studen,Never,Yes,Ambivert,Chittagong
+53,Male,Yes,Yes,Yes,10,8,7,0,No,Single,Overweight,0,Student,Daily,Yes,Ambivert,Sylhet
+48,Female,No,Maybe,No,3,6,4,5,Maybe,Single,Underweight,0,Studen,Daily,No,Introvert,Chittagong
+44,Male,Yes,Maybe,Maybe,9,10,9,1,No,Married,Overweight,0,Doctor,once or twice,Yes,Extrovert,Sylhet
+61,Female,No,Yes,Yes,10,9,8,2,No,Married,Overweight,0,Studen,once or twice,Yes,Introvert,Chittagong
+32,Male,Yes,Maybe,Maybe,2,7,5,0,No,Married,Normal Weight,0,Student,thrice or quarce,No,Extrovert,Dhaka
+64,Male,No,No,No,6,2,6,1,No,Committed,Overweight,0,Engineer,Never,No,Extrovert,Chittagong
+20,Male,No,Maybe,Yes,8,4,5,9,Maybe,Married,Overweight,0,student,Never,No,Introvert,Chittagong
+32,Male,Yes,No,Maybe,8,10,8,8,No,Committed,Overweight,0,Doctor,once or twice,No,Ambivert,Chittagong
+49,Male,Yes,Maybe,No,9,5,8,0,Maybe,Single,Underweight,0,Student,once or twice,Yes,Introvert,Sylhet
+56,Male,Yes,Maybe,No,5,3,5,2,Maybe,Married,Overweight,0,Engineer,thrice or quarce,No,Introvert,Chittagong
+60,Female,No,Yes,No,7,3,5,3,Yes,Married,Normal Weight,0,Doctor,thrice or quarce,No,Ambivert,Dhaka
+51,Female,No,Yes,Maybe,2,4,6,8,Yes,Single,Normal Weight,0,student,Daily,Yes,Introvert,Sylhet
+63,Male,Yes,Yes,No,0,10,8,1,Yes,Married,Underweight,0,student,Daily,Yes,Extrovert,Sylhet
+26,Male,No,Yes,No,9,7,8,3,Maybe,Single,Overweight,0,Student,thrice or quarce,No,Ambivert,Dhaka
+51,Male,No,Maybe,Yes,3,4,7,0,No,Married,Normal Weight,0,Studen,thrice or quarce,Yes,Ambivert,Sylhet
+25,Female,Yes,Maybe,No,2,1,9,3,Maybe,Committed,Underweight,0,Engineer,thrice or quarce,Yes,Extrovert,Sylhet
+55,Female,Yes,Yes,Maybe,8,10,8,3,No,Single,Underweight,0,Doctor,once or twice,No,Extrovert,Sylhet
+18,Female,Yes,No,Maybe,10,3,9,2,Maybe,Single,Overweight,0,Engineer,once or twice,No,Ambivert,Sylhet
+45,Male,Yes,Maybe,Maybe,2,1,7,3,No,Married,Underweight,0,Student,thrice or quarce,No,Introvert,Dhaka
+54,Male,No,Maybe,Maybe,9,7,4,6,Maybe,Single,Overweight,0,Studen,once or twice,No,Introvert,Chittagong
+42,Female,Yes,Maybe,Maybe,7,9,5,1,Maybe,Committed,Underweight,0,Engineer,once or twice,Yes,Extrovert,Chittagong
+38,Male,No,No,Yes,3,3,7,0,Maybe,Single,Underweight,0,Doctor,Never,No,Extrovert,Chittagong
+25,Male,No,Yes,No,2,0,9,4,No,Married,Overweight,0,student,Daily,No,Ambivert,Dhaka
+62,Female,No,No,No,6,4,7,8,Yes,Single,Normal Weight,0,Doctor,Daily,Yes,Ambivert,Chittagong
+23,Male,Yes,Maybe,No,6,6,5,2,No,Committed,Normal Weight,0,Engineer,Daily,No,Extrovert,Dhaka
+46,Male,Yes,Yes,Maybe,2,5,6,6,Maybe,Married,Overweight,0,student,once or twice,No,Introvert,Dhaka
+49,Female,Yes,Maybe,Yes,8,3,5,2,No,Single,Normal Weight,0,student,once or twice,No,Ambivert,Chittagong
+62,Female,Yes,Yes,Maybe,10,1,7,3,Yes,Married,Overweight,0,Student,Daily,No,Introvert,Chittagong
+58,Female,No,No,Maybe,7,0,4,6,Maybe,Committed,Overweight,0,Student,once or twice,Yes,Extrovert,Sylhet
+28,Female,Yes,No,Yes,3,0,7,5,Maybe,Committed,Normal Weight,0,student,once or twice,No,Extrovert,Chittagong
+29,Female,No,No,No,10,2,6,5,No,Committed,Overweight,0,Studen,thrice or quarce,No,Ambivert,Dhaka
+62,Female,No,Yes,No,0,7,5,8,Yes,Single,Underweight,0,Studen,Daily,Yes,Introvert,Sylhet
+37,Male,No,Yes,Maybe,9,1,7,8,Maybe,Married,Normal Weight,0,student,once or twice,No,Introvert,Chittagong
+61,Male,No,Maybe,Maybe,9,4,9,4,No,Committed,Normal Weight,0,Doctor,Daily,Yes,Ambivert,Chittagong
+60,Female,No,No,Maybe,1,0,5,2,Maybe,Committed,Overweight,0,Engineer,Never,Yes,Extrovert,Dhaka
+30,Female,No,Maybe,No,0,10,5,5,Maybe,Single,Overweight,0,Student,once or twice,No,Ambivert,Chittagong
+30,Female,No,Maybe,Yes,1,9,4,1,No,Single,Underweight,0,student,thrice or quarce,Yes,Extrovert,Chittagong
+21,Female,Yes,No,No,10,10,4,9,No,Single,Overweight,0,Studen,once or twice,No,Introvert,Sylhet
+24,Female,No,Yes,Yes,9,1,8,7,No,Single,Normal Weight,0,Student,Daily,No,Introvert,Dhaka
+31,Female,Yes,Maybe,Yes,9,9,4,7,Yes,Committed,Underweight,0,Student,Never,Yes,Introvert,Dhaka
+61,Male,Yes,Yes,Maybe,4,0,5,7,Maybe,Single,Normal Weight,0,Doctor,Daily,Yes,Ambivert,Dhaka
+36,Male,Yes,Maybe,No,8,4,7,6,Maybe,Committed,Underweight,0,Doctor,Daily,No,Extrovert,Sylhet
+42,Female,Yes,Maybe,No,6,0,4,0,Maybe,Single,Overweight,0,Doctor,thrice or quarce,No,Introvert,Dhaka
+30,Female,No,No,Maybe,2,8,5,5,Maybe,Committed,Normal Weight,0,Studen,thrice or quarce,Yes,Extrovert,Dhaka
+28,Male,Yes,Yes,Maybe,6,8,8,8,No,Committed,Normal Weight,0,Doctor,thrice or quarce,No,Introvert,Chittagong
+19,Female,Yes,No,No,0,5,7,6,Maybe,Committed,Underweight,0,student,Daily,Yes,Extrovert,Chittagong
+60,Female,No,Yes,Yes,10,7,6,9,Maybe,Married,Normal Weight,0,student,Daily,Yes,Introvert,Sylhet
+49,Male,No,No,No,5,3,9,6,Yes,Committed,Overweight,0,student,Daily,Yes,Extrovert,Dhaka
+46,Female,No,Yes,No,3,4,8,9,Maybe,Single,Normal Weight,0,Engineer,Never,No,Extrovert,Sylhet
+23,Male,Yes,Maybe,Yes,4,6,4,6,Maybe,Single,Underweight,0,Studen,once or twice,No,Extrovert,Dhaka
+44,Female,Yes,No,No,5,4,4,4,Yes,Married,Overweight,0,Doctor,Daily,Yes,Ambivert,Chittagong
+55,Male,Yes,Maybe,No,4,1,4,8,Yes,Single,Underweight,0,Engineer,thrice or quarce,Yes,Ambivert,Chittagong
+36,Male,Yes,Yes,Yes,3,4,5,9,Maybe,Committed,Underweight,0,Doctor,thrice or quarce,No,Ambivert,Chittagong
+51,Female,No,No,No,8,6,5,4,Maybe,Single,Overweight,0,Engineer,thrice or quarce,No,Ambivert,Chittagong
+41,Female,Yes,No,Maybe,8,8,9,2,Maybe,Married,Overweight,0,Studen,thrice or quarce,No,Extrovert,Dhaka
+19,Male,No,No,Maybe,0,3,5,7,No,Married,Overweight,0,Studen,Never,No,Extrovert,Dhaka
+18,Female,No,No,Maybe,8,9,9,3,Maybe,Committed,Underweight,0,student,Never,No,Introvert,Dhaka
+26,Male,No,Maybe,Yes,0,6,5,8,No,Committed,Overweight,0,Student,once or twice,No,Ambivert,Dhaka
+32,Male,No,Maybe,No,1,9,7,0,Yes,Married,Underweight,0,Student,Never,No,Introvert,Chittagong
+34,Male,No,Maybe,Maybe,4,6,7,7,Maybe,Married,Underweight,0,student,Never,Yes,Introvert,Sylhet
+35,Female,Yes,No,Yes,1,8,4,7,Maybe,Single,Underweight,0,Doctor,once or twice,Yes,Introvert,Sylhet
+54,Female,Yes,Yes,Yes,6,10,6,1,Maybe,Married,Overweight,0,Engineer,thrice or quarce,Yes,Extrovert,Chittagong
+37,Male,No,Yes,Yes,10,10,5,9,No,Married,Overweight,0,Engineer,thrice or quarce,Yes,Extrovert,Dhaka
+35,Female,No,Maybe,No,0,10,8,1,Yes,Committed,Overweight,0,Studen,Never,No,Introvert,Dhaka
+60,Male,No,Maybe,Maybe,9,1,9,5,Yes,Committed,Overweight,0,Doctor,once or twice,No,Introvert,Sylhet
+60,Female,No,Yes,Yes,3,6,4,5,No,Committed,Overweight,0,Student,thrice or quarce,Yes,Extrovert,Sylhet
+56,Male,No,Maybe,Maybe,8,0,4,8,No,Married,Normal Weight,0,Engineer,thrice or quarce,Yes,Extrovert,Dhaka
+57,Male,No,Yes,Maybe,8,7,5,4,Yes,Single,Underweight,0,Engineer,thrice or quarce,Yes,Extrovert,Dhaka
+37,Male,No,Maybe,Maybe,1,9,8,8,Maybe,Married,Normal Weight,0,Student,once or twice,Yes,Introvert,Sylhet
+64,Male,Yes,No,Maybe,2,10,7,0,No,Single,Underweight,0,Studen,Never,Yes,Extrovert,Sylhet
+35,Male,Yes,No,No,10,4,5,0,Maybe,Committed,Underweight,0,Doctor,thrice or quarce,Yes,Extrovert,Chittagong
+34,Male,Yes,Maybe,Maybe,4,8,9,9,Yes,Married,Overweight,0,Studen,thrice or quarce,Yes,Introvert,Chittagong
+51,Male,Yes,No,No,0,0,9,6,Yes,Married,Underweight,0,Studen,Daily,Yes,Introvert,Dhaka
+33,Female,Yes,Maybe,Maybe,6,1,6,6,Maybe,Committed,Normal Weight,0,Student,once or twice,No,Extrovert,Dhaka
+42,Female,Yes,Maybe,Yes,10,5,8,4,Maybe,Married,Normal Weight,0,Doctor,Daily,No,Introvert,Chittagong
+64,Female,Yes,Yes,No,3,0,8,9,Maybe,Single,Overweight,0,student,thrice or quarce,No,Extrovert,Sylhet
+30,Male,No,No,No,4,9,9,6,No,Single,Overweight,0,student,Daily,Yes,Extrovert,Chittagong
+41,Female,No,Maybe,Maybe,0,9,9,5,Maybe,Married,Underweight,0,Doctor,Never,Yes,Ambivert,Dhaka
+42,Female,Yes,Maybe,Maybe,4,10,5,9,Maybe,Committed,Normal Weight,0,Studen,once or twice,No,Introvert,Chittagong
+48,Male,No,No,Maybe,7,2,8,2,Yes,Single,Overweight,0,Doctor,Daily,No,Ambivert,Sylhet
+29,Female,Yes,No,Yes,1,4,9,1,Maybe,Committed,Normal Weight,0,student,Never,No,Introvert,Chittagong
+50,Female,Yes,No,Yes,1,0,5,4,No,Married,Underweight,0,Student,Never,Yes,Ambivert,Dhaka
+58,Male,Yes,No,Yes,4,8,7,4,No,Committed,Underweight,0,student,Daily,Yes,Ambivert,Chittagong
+23,Male,No,Yes,Maybe,4,2,8,4,Yes,Single,Underweight,0,Engineer,Never,No,Introvert,Sylhet
+58,Male,No,Yes,No,5,4,6,2,Maybe,Single,Normal Weight,0,Student,once or twice,Yes,Extrovert,Dhaka
+34,Female,Yes,No,No,6,1,7,3,Maybe,Single,Underweight,0,Studen,thrice or quarce,Yes,Extrovert,Sylhet
+64,Male,No,Yes,Maybe,8,0,7,6,No,Married,Underweight,0,Student,Never,No,Introvert,Sylhet
+18,Female,Yes,Maybe,Maybe,10,9,8,2,Maybe,Married,Normal Weight,0,Studen,once or twice,No,Introvert,Dhaka
+25,Female,No,No,No,7,1,6,3,No,Committed,Underweight,0,Engineer,thrice or quarce,No,Extrovert,Chittagong
+26,Female,Yes,No,No,8,5,9,6,Yes,Single,Normal Weight,0,Studen,Daily,No,Introvert,Sylhet
+40,Female,No,Yes,Yes,0,3,4,4,No,Single,Normal Weight,0,Studen,once or twice,Yes,Ambivert,Chittagong
+43,Male,Yes,No,Maybe,2,6,9,2,No,Married,Overweight,0,Studen,Daily,No,Ambivert,Dhaka
+20,Female,No,Maybe,Maybe,10,8,4,7,No,Married,Overweight,0,Engineer,Daily,Yes,Extrovert,Dhaka
+31,Female,No,No,No,8,0,8,8,Yes,Married,Overweight,0,student,thrice or quarce,Yes,Extrovert,Chittagong
+24,Male,Yes,Maybe,No,10,8,6,4,Yes,Committed,Underweight,0,Doctor,thrice or quarce,Yes,Ambivert,Chittagong
+52,Male,Yes,Maybe,Yes,6,1,4,1,Yes,Committed,Normal Weight,0,Student,thrice or quarce,Yes,Introvert,Dhaka
+37,Female,No,Maybe,Yes,2,7,5,8,Yes,Single,Underweight,0,Doctor,Daily,No,Extrovert,Dhaka
+42,Female,No,Yes,Yes,8,5,4,0,Yes,Married,Underweight,0,student,thrice or quarce,Yes,Introvert,Chittagong
+30,Male,Yes,Yes,No,7,10,6,8,No,Committed,Overweight,0,Doctor,thrice or quarce,No,Ambivert,Dhaka
+52,Male,Yes,Yes,No,1,6,5,7,No,Single,Underweight,0,Student,Never,Yes,Extrovert,Sylhet
+56,Female,Yes,Maybe,Yes,10,1,7,9,No,Committed,Underweight,0,Engineer,Daily,Yes,Extrovert,Sylhet
+28,Female,Yes,Yes,Yes,2,9,5,5,Yes,Committed,Normal Weight,0,Studen,Never,No,Extrovert,Sylhet
+32,Female,No,Yes,Maybe,1,7,5,0,No,Committed,Normal Weight,0,Doctor,Never,Yes,Introvert,Sylhet
+24,Male,Yes,Maybe,Yes,4,8,5,0,Maybe,Single,Overweight,0,Engineer,Daily,Yes,Extrovert,Chittagong
+54,Female,No,Yes,Yes,0,2,8,3,Maybe,Married,Normal Weight,0,student,once or twice,Yes,Extrovert,Dhaka
+24,Female,No,No,No,1,9,8,8,No,Single,Overweight,0,Doctor,Daily,No,Ambivert,Chittagong
+61,Male,Yes,Yes,No,3,9,6,3,No,Single,Normal Weight,0,Engineer,Never,Yes,Ambivert,Chittagong
+43,Male,No,No,Maybe,6,1,7,7,No,Single,Normal Weight,0,Studen,thrice or quarce,Yes,Ambivert,Chittagong
+59,Female,No,Yes,Maybe,7,9,7,9,Maybe,Committed,Underweight,0,Engineer,Daily,No,Ambivert,Dhaka
+36,Female,No,No,Maybe,0,2,6,3,Yes,Married,Normal Weight,0,Engineer,thrice or quarce,Yes,Extrovert,Chittagong
+59,Male,No,No,No,10,4,6,1,Maybe,Committed,Overweight,0,Studen,Daily,No,Introvert,Sylhet
+63,Male,Yes,Yes,Yes,0,6,6,0,Maybe,Married,Underweight,0,student,Never,Yes,Ambivert,Dhaka
+27,Female,Yes,Yes,Maybe,9,0,6,8,No,Committed,Normal Weight,0,Engineer,once or twice,Yes,Introvert,Sylhet
+24,Female,Yes,Yes,Yes,7,8,9,1,Yes,Married,Underweight,0,Student,Daily,No,Extrovert,Dhaka
+63,Male,No,Maybe,No,9,8,9,7,No,Committed,Overweight,0,Student,Daily,Yes,Introvert,Dhaka
+24,Female,No,No,Yes,3,5,4,9,Maybe,Committed,Normal Weight,0,Student,once or twice,Yes,Ambivert,Chittagong
+39,Female,No,Yes,No,7,3,8,3,No,Single,Normal Weight,0,Studen,Never,No,Ambivert,Sylhet
+59,Male,Yes,Maybe,Maybe,3,9,6,8,No,Committed,Normal Weight,0,Engineer,once or twice,No,Extrovert,Chittagong
+33,Male,Yes,No,Maybe,9,1,9,1,Yes,Married,Underweight,0,Doctor,thrice or quarce,No,Extrovert,Sylhet
+54,Male,No,No,Maybe,8,10,7,9,No,Single,Overweight,0,Studen,once or twice,Yes,Ambivert,Dhaka
+40,Male,Yes,No,Yes,3,1,9,8,Maybe,Committed,Normal Weight,0,student,Never,No,Introvert,Chittagong
+32,Male,No,Maybe,No,3,8,4,9,No,Married,Overweight,0,Student,thrice or quarce,Yes,Introvert,Dhaka
+42,Female,No,No,Maybe,3,4,5,3,Maybe,Single,Overweight,0,Doctor,thrice or quarce,Yes,Introvert,Dhaka
+53,Female,No,Yes,No,8,5,5,5,Maybe,Committed,Underweight,0,Engineer,Never,Yes,Extrovert,Dhaka
+33,Female,Yes,Maybe,No,9,1,9,0,Yes,Single,Underweight,0,Student,thrice or quarce,Yes,Introvert,Dhaka
+29,Male,No,Maybe,Yes,1,1,5,9,No,Single,Normal Weight,0,Studen,Never,No,Extrovert,Chittagong
+42,Male,Yes,Yes,Yes,0,7,7,5,No,Committed,Underweight,0,Student,Daily,Yes,Ambivert,Chittagong
+56,Male,No,No,Maybe,8,1,5,3,No,Committed,Normal Weight,0,Engineer,Never,Yes,Extrovert,Sylhet
+25,Female,Yes,No,No,0,7,4,0,Yes,Single,Overweight,0,Student,Never,Yes,Extrovert,Dhaka
+31,Male,No,No,Maybe,9,10,7,3,No,Single,Overweight,0,Student,Daily,No,Extrovert,Dhaka
+59,Male,Yes,Maybe,Maybe,9,6,5,6,No,Committed,Normal Weight,0,Student,Never,Yes,Ambivert,Chittagong
+33,Male,No,No,Yes,1,8,6,1,Yes,Single,Underweight,0,Studen,once or twice,Yes,Extrovert,Dhaka
+39,Male,No,Maybe,Yes,4,4,5,6,No,Single,Overweight,0,Student,Never,Yes,Ambivert,Dhaka
+43,Female,No,Maybe,Maybe,6,1,6,8,Yes,Married,Normal Weight,0,student,Daily,Yes,Extrovert,Dhaka
+55,Male,No,Yes,No,4,1,4,3,Yes,Single,Normal Weight,0,Student,Never,Yes,Extrovert,Chittagong
+63,Female,No,Maybe,No,8,7,9,3,Maybe,Committed,Overweight,0,Engineer,thrice or quarce,No,Extrovert,Chittagong
+43,Male,No,Yes,Maybe,5,10,8,0,Maybe,Married,Normal Weight,0,Student,Daily,No,Extrovert,Dhaka
+24,Male,Yes,Maybe,No,10,6,4,4,Maybe,Single,Overweight,0,student,once or twice,Yes,Extrovert,Sylhet
+44,Male,No,No,Yes,8,4,8,7,Maybe,Committed,Underweight,0,Engineer,once or twice,Yes,Extrovert,Chittagong
+61,Female,Yes,No,Yes,0,8,8,4,Yes,Married,Normal Weight,0,Student,Never,No,Ambivert,Sylhet
+49,Male,Yes,Yes,Yes,3,10,8,1,No,Committed,Overweight,0,student,Daily,No,Ambivert,Dhaka
+57,Male,No,Yes,Maybe,1,10,4,7,No,Committed,Overweight,0,Student,Daily,Yes,Extrovert,Chittagong
+57,Male,No,Maybe,Yes,8,6,9,8,Maybe,Single,Overweight,0,Doctor,Never,Yes,Introvert,Sylhet
+19,Female,Yes,Yes,Maybe,5,9,4,8,No,Married,Underweight,0,student,Daily,No,Extrovert,Dhaka
+50,Male,Yes,Yes,Maybe,3,8,5,7,Yes,Married,Normal Weight,0,student,Daily,No,Ambivert,Chittagong
+35,Female,Yes,Maybe,Yes,1,3,6,7,Maybe,Committed,Underweight,0,Doctor,Daily,Yes,Introvert,Dhaka
+44,Female,No,Maybe,Yes,5,7,5,6,Maybe,Married,Normal Weight,0,Engineer,thrice or quarce,Yes,Ambivert,Dhaka
+46,Male,Yes,Yes,No,4,2,8,0,Yes,Single,Overweight,0,student,once or twice,Yes,Ambivert,Chittagong
+54,Male,No,Maybe,Yes,6,6,8,6,Yes,Married,Normal Weight,0,Student,once or twice,Yes,Extrovert,Dhaka
+40,Male,Yes,Maybe,No,7,4,8,9,Yes,Committed,Overweight,0,student,once or twice,Yes,Extrovert,Chittagong
+28,Female,No,No,Maybe,2,9,5,7,No,Single,Overweight,0,Studen,thrice or quarce,No,Ambivert,Sylhet
+58,Male,Yes,Yes,Yes,5,7,6,0,Yes,Married,Normal Weight,0,Engineer,thrice or quarce,No,Ambivert,Sylhet
+57,Male,No,No,Yes,10,9,9,8,Maybe,Married,Overweight,0,student,Daily,Yes,Extrovert,Chittagong
+57,Male,No,No,Maybe,4,6,5,4,Yes,Married,Normal Weight,0,student,thrice or quarce,No,Ambivert,Chittagong
+61,Female,No,No,Maybe,10,0,9,9,Maybe,Married,Overweight,0,student,Never,Yes,Extrovert,Sylhet
+56,Female,No,No,Yes,10,7,7,8,No,Single,Normal Weight,0,Engineer,once or twice,Yes,Ambivert,Dhaka
+59,Female,No,Maybe,No,9,4,5,2,Maybe,Married,Normal Weight,0,Studen,once or twice,Yes,Ambivert,Dhaka
+43,Male,No,Maybe,Yes,4,9,6,2,Yes,Single,Underweight,0,Engineer,thrice or quarce,Yes,Introvert,Chittagong
+30,Female,Yes,Maybe,Yes,5,6,9,5,Maybe,Committed,Normal Weight,0,Studen,once or twice,Yes,Ambivert,Dhaka
+21,Male,No,Maybe,Yes,9,1,7,1,Maybe,Single,Normal Weight,0,Doctor,Never,Yes,Ambivert,Dhaka
+37,Male,No,Yes,No,7,5,5,2,Yes,Committed,Overweight,0,Student,Daily,No,Extrovert,Chittagong
+36,Female,No,No,Yes,7,10,5,1,Yes,Married,Normal Weight,0,Doctor,Never,Yes,Extrovert,Sylhet
+37,Female,No,No,No,6,7,9,1,Yes,Single,Normal Weight,0,Engineer,thrice or quarce,Yes,Introvert,Sylhet
+53,Female,No,Yes,Maybe,5,1,7,9,No,Single,Overweight,0,Engineer,thrice or quarce,No,Ambivert,Chittagong
+56,Female,Yes,Yes,No,0,8,7,0,No,Committed,Overweight,0,Studen,thrice or quarce,No,Introvert,Dhaka
+50,Female,Yes,Maybe,Yes,1,2,9,8,Maybe,Married,Underweight,0,Doctor,once or twice,No,Introvert,Sylhet
+29,Female,Yes,Yes,No,4,4,8,9,No,Married,Overweight,0,student,Daily,Yes,Introvert,Sylhet
+48,Female,Yes,No,Yes,6,0,8,5,No,Committed,Normal Weight,0,student,Daily,No,Introvert,Dhaka
+45,Female,Yes,Yes,Maybe,3,6,6,6,Yes,Married,Overweight,0,Engineer,Never,No,Extrovert,Sylhet
+39,Female,No,Maybe,Maybe,6,10,9,7,Maybe,Single,Overweight,0,student,thrice or quarce,Yes,Introvert,Chittagong
+57,Male,Yes,Maybe,Maybe,8,0,7,8,Yes,Single,Underweight,0,Engineer,Never,Yes,Introvert,Chittagong
+33,Male,Yes,Maybe,Yes,1,0,6,0,Yes,Married,Overweight,0,Doctor,thrice or quarce,No,Introvert,Sylhet
+62,Male,No,Maybe,Maybe,5,3,8,6,No,Single,Normal Weight,0,Doctor,once or twice,Yes,Ambivert,Sylhet
+26,Male,No,Maybe,Yes,1,2,7,2,Yes,Single,Overweight,0,Doctor,thrice or quarce,Yes,Introvert,Sylhet
+23,Female,No,Yes,Maybe,5,9,9,9,No,Married,Underweight,0,student,thrice or quarce,No,Ambivert,Dhaka
+51,Male,No,No,No,3,10,5,5,Yes,Married,Underweight,0,Studen,Daily,No,Extrovert,Dhaka
+43,Male,Yes,Yes,No,0,1,6,3,No,Committed,Underweight,0,Student,once or twice,No,Ambivert,Dhaka
+39,Female,No,Yes,Yes,1,5,6,2,Yes,Married,Normal Weight,0,Student,thrice or quarce,No,Extrovert,Dhaka
+25,Male,No,No,Yes,5,8,7,8,Yes,Single,Overweight,0,Studen,thrice or quarce,No,Ambivert,Dhaka
+31,Female,Yes,Maybe,Yes,3,7,8,3,Maybe,Married,Underweight,0,student,Daily,Yes,Ambivert,Dhaka
+19,Male,No,Maybe,Yes,7,8,5,1,No,Single,Normal Weight,0,Doctor,Never,Yes,Ambivert,Sylhet
+43,Male,Yes,Maybe,Maybe,9,0,7,7,Maybe,Committed,Normal Weight,0,Engineer,thrice or quarce,Yes,Extrovert,Sylhet
+30,Female,No,No,Maybe,0,9,9,0,No,Committed,Underweight,0,Student,thrice or quarce,No,Introvert,Sylhet
+59,Male,Yes,Yes,Yes,0,0,7,8,Maybe,Married,Normal Weight,0,Student,Never,No,Ambivert,Sylhet
+31,Male,No,Maybe,Maybe,10,10,4,9,Maybe,Married,Underweight,0,Student,thrice or quarce,Yes,Ambivert,Sylhet
+29,Male,No,Yes,No,2,1,6,7,No,Committed,Overweight,0,Doctor,Daily,Yes,Ambivert,Dhaka
+63,Female,Yes,Yes,No,7,2,9,8,Maybe,Single,Underweight,0,student,thrice or quarce,No,Introvert,Chittagong
+34,Female,No,Yes,No,10,0,9,8,Maybe,Committed,Normal Weight,0,Student,Daily,Yes,Introvert,Dhaka
+54,Male,No,Yes,Yes,5,8,8,5,Yes,Married,Normal Weight,0,Engineer,once or twice,Yes,Introvert,Sylhet
+19,Male,Yes,Yes,Yes,0,4,7,7,Yes,Committed,Overweight,0,student,Never,Yes,Ambivert,Dhaka
+64,Female,Yes,Yes,Maybe,1,2,9,3,No,Committed,Underweight,0,Engineer,Daily,Yes,Extrovert,Sylhet
+38,Female,Yes,Maybe,Maybe,7,10,7,3,No,Married,Overweight,0,Doctor,Never,No,Extrovert,Sylhet
+51,Female,No,No,Yes,1,5,5,9,Maybe,Married,Underweight,0,Student,Daily,Yes,Extrovert,Chittagong
+43,Male,No,Maybe,Yes,8,8,5,8,Maybe,Married,Overweight,0,Doctor,once or twice,No,Introvert,Sylhet
+52,Female,No,Maybe,Maybe,10,6,8,2,Maybe,Committed,Underweight,0,Student,thrice or quarce,No,Ambivert,Sylhet
+33,Male,Yes,Maybe,No,7,4,7,2,No,Married,Underweight,0,Doctor,once or twice,Yes,Extrovert,Chittagong
+23,Female,No,No,Yes,3,4,9,1,No,Single,Underweight,0,student,Never,No,Extrovert,Dhaka
+46,Male,Yes,Yes,No,8,10,4,8,Maybe,Married,Underweight,0,Engineer,once or twice,No,Ambivert,Dhaka
+52,Female,No,No,No,4,4,7,2,No,Committed,Normal Weight,0,Doctor,thrice or quarce,Yes,Ambivert,Dhaka
+54,Female,No,No,No,0,1,4,6,No,Single,Underweight,0,Student,Never,Yes,Ambivert,Dhaka
+27,Male,Yes,Yes,Yes,1,1,9,0,Yes,Single,Overweight,8000,Doctor,Daily,Yes,Introvert,Dhaka
+58,Female,No,Maybe,Maybe,7,5,5,9,Yes,Single,Normal Weight,0,Doctor,Never,Yes,Introvert,Chittagong
+18,Male,Yes,Maybe,Yes,6,7,8,9,No,Committed,Normal Weight,0,student,once or twice,No,Introvert,Dhaka
+61,Female,Yes,Maybe,Yes,1,2,9,1,Maybe,Committed,Overweight,3000,Student,once or twice,Yes,Introvert,Dhaka
+32,Female,Yes,No,Yes,3,2,6,8,Maybe,Committed,Underweight,78000,Student,Daily,No,Introvert,Sylhet
+51,Male,No,No,Yes,6,9,9,2,Yes,Married,Normal Weight,0,Student,Daily,No,Extrovert,Chittagong
+64,Female,No,No,Maybe,0,1,9,9,Yes,Married,Overweight,0,Engineer,Never,Yes,Introvert,Sylhet
+51,Male,No,No,No,7,5,7,2,Maybe,Single,Underweight,0,student,Daily,Yes,Ambivert,Sylhet
+61,Male,Yes,No,Maybe,8,8,8,4,No,Committed,Overweight,0,Doctor,thrice or quarce,Yes,Extrovert,Dhaka
+53,Male,Yes,Yes,No,9,3,7,0,No,Married,Normal Weight,0,Doctor,once or twice,No,Introvert,Sylhet
+18,Female,No,No,Yes,6,0,9,9,Maybe,Single,Underweight,45000,student,Never,Yes,Introvert,Dhaka
+34,Female,Yes,Maybe,Yes,8,2,6,9,Maybe,Committed,Normal Weight,0,student,once or twice,No,Introvert,Sylhet
+20,Male,No,Yes,Yes,9,3,7,2,No,Married,Overweight,0,Student,Never,Yes,Introvert,Sylhet
+44,Female,Yes,Maybe,Maybe,4,6,9,9,No,Committed,Normal Weight,96000,Student,once or twice,Yes,Ambivert,Dhaka
+42,Female,Yes,Maybe,No,5,4,4,2,Maybe,Single,Underweight,0,student,once or twice,No,Ambivert,Dhaka
+43,Female,Yes,Maybe,Yes,4,0,7,3,Maybe,Married,Normal Weight,76000,student,Daily,Yes,Extrovert,Sylhet
+21,Female,Yes,Yes,Yes,4,1,7,2,Maybe,Committed,Overweight,26000,student,thrice or quarce,No,Introvert,Chittagong
+44,Female,No,Maybe,Maybe,4,5,7,6,Yes,Committed,Overweight,0,Student,Daily,No,Ambivert,Sylhet
+59,Female,Yes,No,Maybe,5,5,6,7,Yes,Single,Underweight,40000,Student,thrice or quarce,Yes,Ambivert,Dhaka
+43,Female,No,Yes,Yes,8,5,6,4,No,Committed,Normal Weight,0,Student,once or twice,No,Extrovert,Chittagong
+55,Male,No,Maybe,No,2,1,7,0,Maybe,Married,Overweight,0,Student,Daily,No,Introvert,Dhaka
+28,Male,Yes,Maybe,No,6,3,4,7,Maybe,Married,Normal Weight,0,Doctor,once or twice,No,Extrovert,Dhaka
+37,Male,Yes,No,No,10,5,9,0,No,Single,Underweight,0,Doctor,Daily,No,Introvert,Sylhet
+60,Female,No,Yes,Maybe,6,3,9,3,Maybe,Committed,Underweight,70000,Doctor,Never,Yes,Introvert,Chittagong
+26,Male,Yes,No,Maybe,3,2,9,5,Yes,Committed,Underweight,0,Student,Daily,No,Ambivert,Chittagong
+25,Female,No,Yes,Yes,8,9,6,1,Yes,Committed,Normal Weight,0,Engineer,Daily,Yes,Extrovert,Sylhet
+36,Male,Yes,No,Yes,2,2,4,1,Maybe,Committed,Normal Weight,63000,Student,Never,No,Introvert,Chittagong
+33,Male,No,Yes,No,2,9,6,6,No,Single,Underweight,0,Doctor,thrice or quarce,No,Ambivert,Dhaka
+64,Male,Yes,Maybe,Yes,0,5,5,0,Yes,Committed,Normal Weight,0,Student,once or twice,No,Extrovert,Dhaka
+27,Male,Yes,No,No,9,0,7,6,Yes,Committed,Overweight,0,Engineer,Never,No,Introvert,Chittagong
+51,Female,No,No,Yes,5,7,6,0,No,Single,Overweight,0,Engineer,once or twice,Yes,Introvert,Dhaka
